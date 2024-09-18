@@ -1,0 +1,233 @@
+{
+    "@id": "WA0RT3216",
+    "@type": "Collection",
+    "title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+    "totalParents": 0,
+    "totalChildren": 37,
+    "dtsVersion": "1-alpha",
+    "collection": "/api/dts/collection/{?id,page,nav}",
+    "member": [
+        {
+            "@id": "MW0NGMCP42839",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW0NGMCP47446",
+            "@type": "member",
+            "Title": "byang chub sems pa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW0NGMCP52728",
+            "@type": "member",
+            "Title": "byang chub sems pa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW0NGMCP54043",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW0NGMCP54399",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW0NGMCP56647",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW0NGMCP56902",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW0NGMCP58607",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW0NGMCP58645",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW0NGMCP62151",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW0NGMCP66668",
+            "@type": "member",
+            "Title": "byang chub sebs dpa'i spyod pa la 'jugs pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW0NGMCP67440",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW0NGMCP68015",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW0NGMCP70905",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW1KG13126_5272",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW1NLM2091",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW1NLM2157",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW1NLM2814",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW1NLM3945",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW1NLM3964",
+            "@type": "member",
+            "Title": "\u0f66\u0fa4\u0fb1\u0f7c\u0f51\u0f0b\u0f60\u0f47\u0f74\u0f42",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW1NLM4153",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW1NLM708",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW1PD95844_3099",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW21971",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW22704_4061",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW23702_3275",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW23703_3871",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW25983_A4918F",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW2KG5015_4061",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW3CN1560",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW3CN3114",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW3KG198",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW4CZ301801",
+            "@type": "member",
+            "Title": "spyod 'jug",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW8LS43901",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW8LS76581",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW8LS76622",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        },
+        {
+            "@id": "MW8LS76623",
+            "@type": "member",
+            "Title": "byang chub sems dpa'i spyod pa la 'jug pa/",
+            "Collectioin": "/api/dts/collection/?id=WA0RT3216"
+        }
+    ]
+}
