@@ -1,5 +1,6 @@
 from rdflib import Graph, Namespace
-from utils import get_id, get_ttl, get_label
+
+from bdrc_rdf_parser.utils import get_id, get_ttl, get_label
 
 
 BDR = Namespace("http://purl.bdrc.io/resource/")

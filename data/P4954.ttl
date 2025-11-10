@@ -1,0 +1,93 @@
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix adr:   <http://purl.bdrc.io/resource-nc/auth/> .
+@prefix as:    <http://www.w3.org/ns/activitystreams#> .
+@prefix aut:   <http://purl.bdrc.io/ontology/ext/auth/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdac:  <http://purl.bdrc.io/anncollection/> .
+@prefix bdan:  <http://purl.bdrc.io/annotation/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdgu:  <http://purl.bdrc.io/graph-nc/user/> .
+@prefix bdgup: <http://purl.bdrc.io/graph-nc/user-private/> .
+@prefix bdo:   <http://purl.bdrc.io/ontology/core/> .
+@prefix bdou:  <http://purl.bdrc.io/ontology/ext/user/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix bds:   <http://purl.bdrc.io/ontology/shapes/core/> .
+@prefix bdu:   <http://purl.bdrc.io/resource-nc/user/> .
+@prefix bf:    <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dila:  <http://purl.dila.edu.tw/resource/> .
+@prefix eftr:  <http://purl.84000.co/resource/core/> .
+@prefix f:     <java:io.bdrc.libraries.sparql.functions.> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix iiif2: <http://iiif.io/api/presentation/2#> .
+@prefix iiif3: <http://iiif.io/api/presentation/3#> .
+@prefix ldp:   <http://www.w3.org/ns/ldp#> .
+@prefix mbbt:  <http://mbingenheimer.net/tools/bibls/> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix ola:   <https://openlibrary.org/authors/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rsh:   <http://purl.bdrc.io/shacl/core/shape/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix srcd:  <https://sakyaresearch.org/deities/> .
+@prefix srcl:  <https://sakyaresearch.org/literary_forms/> .
+@prefix srcpe: <https://sakyaresearch.org/persons/> .
+@prefix srcpl: <https://sakyaresearch.org/places/> .
+@prefix srcs:  <https://sakyaresearch.org/sources/> .
+@prefix srct:  <https://sakyaresearch.org/topics/> .
+@prefix tbr:   <http://purl.bdrc.io/ontology/toberemoved/> .
+@prefix text:  <http://jena.apache.org/text#> .
+@prefix tmp:   <http://purl.bdrc.io/ontology/tmp/> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix viaf:  <http://viaf.org/viaf/> .
+@prefix wd:    <http://www.wikidata.org/entity/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdr:NM46BC68D7A0441639
+   a             bdo:PersonOtherName ;
+   rdfs:label    "龙树"@zh-Hans .
+
+bdr:NM49A1320D97427653
+   a             bdo:PersonPrimaryName ;
+   rdfs:label    "klu sgrub/"@bo-x-ewts .
+
+bdr:NM588BA67FCB5CBC5E
+   a             bdo:PersonOtherName ;
+   rdfs:label    "Nāgārjuna"@sa-x-iast .
+
+bdr:NM9A641D45E1F2CD5E
+   a             bdo:PersonTitle ;
+   rdfs:label    "dpal mgon 'phags pa klu sgrub/"@bo-x-ewts .
+
+bdr:NM9BFF1C5E8B0AFCEC
+   a             bdo:PersonPrimaryTitle ;
+   rdfs:label    "slob dpon klu sgrub/"@bo-x-ewts .
+
+bdr:NME797173941ECA1B9
+   a             bdo:PersonTitle ;
+   rdfs:label    "rgyal ba gnyis pa/"@bo-x-ewts .
+
+bdr:NT10CFDB66A339DDB1
+   a             bdo:Note ;
+   bdo:noteText  "no. 16 in the list of 84 mahasiddhas compiled by abhayadattasri and viraprakasa"@en .
+
+bdr:NT84450521E8C91702
+   a             bdo:Note ;
+   bdo:noteText  "the issue of multiple nagarjunas has often been discussed in indological literature; the policy of the tbrc is to use the form nagarjuna for all of the works attributed to nagarjuna,  works on madhyamika philosophy, writings on medicine, and tantric and devotional works; at least some of these are the works of tibetan authors regarded as embodiments of nagarjuna such as 'bri gung 'jig rten mgon po"@en .
+
+bdr:NTP4954_ATII0  a  bdo:Note ;
+   bdo:noteText  "Information from this record was contributed by the Authors and Translators Identification Initiative (ATII) project in collaboration with the Khyentse Center at Universität Hamburg."@en .
+
+bdr:P4954  a     bdo:Person ;
+   skos:prefLabel  "slob dpon klu sgrub/"@bo-x-ewts , "Nāgārjuna"@sa-x-iast , "龙树"@zh-Hans ;
+   bdo:note      bdr:NT10CFDB66A339DDB1 , bdr:NT84450521E8C91702 , bdr:NTP4954_ATII0 ;
+   bdo:personGender  bdr:GenderMale ;
+   bdo:personName  bdr:NM46BC68D7A0441639 , bdr:NM49A1320D97427653 , bdr:NM588BA67FCB5CBC5E , bdr:NM9A641D45E1F2CD5E , bdr:NM9BFF1C5E8B0AFCEC , bdr:NME797173941ECA1B9 ;
+   bdo:personStudentOf  bdr:P0RK296 , bdr:P0RK575 , bdr:P0RK945 , bdr:P6160 ;
+   bdo:personTeacherOf  bdr:P0RK1163 , bdr:P0RK1619 , bdr:P0RK1638 , bdr:P0RK252 , bdr:P0RK6 , bdr:P3277 , bdr:P4CZ10516 , bdr:P4CZ15237 , bdr:P4CZ15358 , bdr:P4CZ15454 , bdr:P4CZ15577 , bdr:P5782 , bdr:P7149 , bdr:P7401 ;
+   tmp:associatedCentury  7 , 8 ;
+   tmp:entityScore  75327 ;
+   owl:sameAs    viaf:266092044 , viaf:8711937 , wd:Q171195 .

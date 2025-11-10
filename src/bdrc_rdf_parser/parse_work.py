@@ -1,8 +1,11 @@
-from rdflib import Graph
-from utils import get_id, get_ttl, get_label
-from parse_instance import parse_instance_ttl, get_instance_ids
-from rdflib.namespace import Namespace
 import json
+
+from rdflib import Graph
+from rdflib.namespace import Namespace
+
+from bdrc_rdf_parser.utils import get_id, get_ttl, get_label
+from bdrc_rdf_parser.parse_instance import parse_instance_ttl, get_instance_ids
+
 
 
 BDR = Namespace("http://purl.bdrc.io/resource/")
@@ -49,6 +52,8 @@ def parse_work_ttl(ttl_file, work_id):
         "@id":work_id,
         "@type": _type,
         "title": title,
+        "author": get_author(g, work_id),
+        "categories": get_categories(g, work_id),
         "totalParents": 0,
         "totalChildren": len(instance_info),
         "dtsVersion": "1-alpha",
