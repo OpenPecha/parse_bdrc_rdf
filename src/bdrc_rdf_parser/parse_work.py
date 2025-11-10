@@ -3,7 +3,7 @@ import json
 from rdflib import Graph
 from rdflib.namespace import Namespace
 
-from bdrc_rdf_parser.utils import get_id, get_ttl, get_label
+from bdrc_rdf_parser.utils import get_id, get_ttl, get_label, get_author, get_categories
 from bdrc_rdf_parser.parse_instance import parse_instance_ttl, get_instance_ids
 
 
